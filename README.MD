@@ -3,9 +3,9 @@
 Repositório para armazenar toda a documentação e código fonte do projeto.
 
 Grupo:
-   Layon Adriano 
-   Matheus Cezar
-   Nei Gomes
-   Rafael Barros
-   Thiago Martins
+   Layon Adriano,
+   Matheus Ceza,
+   Nei Gomes,
+   Rafael Barros,
+   Thiago Martins.
 
